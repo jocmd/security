@@ -14,7 +14,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.power.security</groupId>
-			<artifactId>power-security-core</artifactId>
+			<artifactId>power-security-browser</artifactId>
 			<version>${power.security.version}</version>
 		</dependency>
 		<dependency>
